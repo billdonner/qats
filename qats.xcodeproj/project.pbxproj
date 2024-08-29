@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		882D641B2C80BE84001F21B0 /* qatsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882D641A2C80BE84001F21B0 /* qatsApp.swift */; };
 		882D641D2C80BE84001F21B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882D641C2C80BE84001F21B0 /* ContentView.swift */; };
 		882D641F2C80BE86001F21B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 882D641E2C80BE86001F21B0 /* Assets.xcassets */; };
 		882D64222C80BE86001F21B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 882D64212C80BE86001F21B0 /* Preview Assets.xcassets */; };
@@ -15,10 +14,10 @@
 
 /* Begin PBXFileReference section */
 		882D64172C80BE84001F21B0 /* qats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = qats.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		882D641A2C80BE84001F21B0 /* qatsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qatsApp.swift; sourceTree = "<group>"; };
 		882D641C2C80BE84001F21B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		882D641E2C80BE86001F21B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		882D64212C80BE86001F21B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		887C668A2C80CE2700FA2AB7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +50,10 @@
 		882D64192C80BE84001F21B0 /* qats */ = {
 			isa = PBXGroup;
 			children = (
-				882D641A2C80BE84001F21B0 /* qatsApp.swift */,
 				882D641C2C80BE84001F21B0 /* ContentView.swift */,
 				882D641E2C80BE86001F21B0 /* Assets.xcassets */,
 				882D64202C80BE86001F21B0 /* Preview Content */,
+				887C668A2C80CE2700FA2AB7 /* README.md */,
 			);
 			path = qats;
 			sourceTree = "<group>";
@@ -138,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				882D641D2C80BE84001F21B0 /* ContentView.swift in Sources */,
-				882D641B2C80BE84001F21B0 /* qatsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
